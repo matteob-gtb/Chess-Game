@@ -1,0 +1,8 @@
+
+.vscode/settings.json
+*.json
+*.sln
+*.vcxproj*
+chessGame
+.vs/
+x64/

@@ -1,0 +1,24 @@
+# Exported from Figuro at https://www.figuro.io
+
+v -1 0 -1
+v 1 0 -1
+v 1 0 1
+v -1 0 1
+# 4 vertices
+vt -0.5 1.5
+vt 0.5 1.5
+vt 0.5 0.5
+vt -0.5 0.5
+vt -0.5 1.5
+vt 0.5 1.5
+vt 0.5 0.5
+vt -0.5 0.5
+# 8 uvs
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+# 4 normals
+f 4/4/4 3/3/3 2/2/2 1/1/1 
+f 1/8/1 2/7/2 3/6/3 4/5/4 
+# 2 polygons
